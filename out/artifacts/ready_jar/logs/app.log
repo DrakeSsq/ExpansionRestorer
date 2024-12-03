@@ -1,0 +1,13 @@
+2024-12-03 20:52:34 [main] INFO  project.extensions.MainApp - the program is running
+2024-12-03 20:52:45 [JavaFX Application Thread] INFO  project.extensions.Position - trying to view directory files
+2024-12-03 20:52:45 [JavaFX Application Thread] INFO  project.extensions.Position - a successful attempt to view the files of the directory
+2024-12-03 20:52:50 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-03 20:52:51 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-03 20:52:52 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-03 20:52:53 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-03 20:52:54 [JavaFX Application Thread] INFO  project.extensions.Position - successful file selection
+2024-12-03 20:52:54 [JavaFX Application Thread] ERROR project.extensions.Position - file not found
+2024-12-03 20:53:00 [JavaFX Application Thread] ERROR project.extensions.Expander - an attempt to view the fiIe. the file is not selected
+2024-12-03 20:53:03 [JavaFX Application Thread] ERROR project.extensions.Expander - an attempt to view the fiIe. the file is not selected
+2024-12-03 20:53:06 [JavaFX Application Thread] ERROR project.extensions.Position - the file is not selected
+2024-12-03 20:53:10 [JavaFX Application Thread] INFO  project.extensions.MainApp - ånd of the program
