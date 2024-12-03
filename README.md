@@ -5,7 +5,7 @@
 
 При запуске программы открывается окно:
 
-![image](https://github.com/user-attachments/assets/1adcc71c-d8b6-4fb5-a4f1-e9bcf8b51b42){: width="400" height="300"}
+![image](https://github.com/user-attachments/assets/1adcc71c-d8b6-4fb5-a4f1-e9bcf8b51b42)
 
 Для того чтобы восстановить файл, пользователь должен изначально выбрать его, именно для этого была добавлена функциональность перемещения по каталогам.
 
