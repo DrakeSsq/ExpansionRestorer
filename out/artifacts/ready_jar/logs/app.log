@@ -66,3 +66,4 @@
 2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Position - successful file selection
 2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Expander - successful file renaming attempt
 2024-12-05 20:34:28 [JavaFX Application Thread] INFO  project.extensions.MainApp - �nd of the program
+2024-12-07 16:32:20 [main] INFO  project.extensions.MainApp - the program is running
