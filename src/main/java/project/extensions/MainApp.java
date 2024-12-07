@@ -36,7 +36,7 @@ public class MainApp extends Application {
     /**
      * Текстовая область для вывода информации.
      */
-    private static TextArea outputArea;
+    public static TextArea outputArea;
 
     /**
      * Поле для ввода команд.
@@ -169,7 +169,6 @@ public class MainApp extends Application {
      * Метод, выводящий справку по командам приложения.
      */
     public static void help() {
-
         appendToConsole("ls - look search");
         appendToConsole("cd <> - moving");
         appendToConsole("take <> - select a file for future recovery");

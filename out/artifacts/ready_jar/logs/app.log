@@ -10,4 +10,59 @@
 2024-12-03 20:53:00 [JavaFX Application Thread] ERROR project.extensions.Expander - an attempt to view the fiIe. the file is not selected
 2024-12-03 20:53:03 [JavaFX Application Thread] ERROR project.extensions.Expander - an attempt to view the fiIe. the file is not selected
 2024-12-03 20:53:06 [JavaFX Application Thread] ERROR project.extensions.Position - the file is not selected
-2024-12-03 20:53:10 [JavaFX Application Thread] INFO  project.extensions.MainApp - ånd of the program
+2024-12-03 20:53:10 [JavaFX Application Thread] INFO  project.extensions.MainApp - ï¿½nd of the program
+2024-12-05 19:58:40 [main] INFO  project.extensions.MainApp - the program is running
+2024-12-05 19:58:47 [JavaFX Application Thread] INFO  project.extensions.Position - trying to view directory files
+2024-12-05 19:58:47 [JavaFX Application Thread] INFO  project.extensions.Position - a successful attempt to view the files of the directory
+2024-12-05 19:58:52 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 19:58:54 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 19:58:55 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:00:33 [main] INFO  project.extensions.MainApp - the program is running
+2024-12-05 20:08:24 [JavaFX Application Thread] ERROR project.extensions.Position - unsuccessful attempt to find the directory
+2024-12-05 20:12:01 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:12:09 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:12:27 [JavaFX Application Thread] INFO  project.extensions.Position - trying to view directory files
+2024-12-05 20:12:27 [JavaFX Application Thread] INFO  project.extensions.Position - a successful attempt to view the files of the directory
+2024-12-05 20:13:56 [JavaFX Application Thread] INFO  project.extensions.Position - successful transition to another directory
+2024-12-05 20:14:00 [JavaFX Application Thread] INFO  project.extensions.Position - successful transition to another directory
+2024-12-05 20:14:03 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:14:04 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:14:05 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:14:06 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:14:08 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:14:12 [JavaFX Application Thread] INFO  project.extensions.Position - successful transition to another directory
+2024-12-05 20:14:17 [JavaFX Application Thread] INFO  project.extensions.Position - successful transition to another directory
+2024-12-05 20:15:30 [JavaFX Application Thread] INFO  project.extensions.Position - trying to view directory files
+2024-12-05 20:15:30 [JavaFX Application Thread] INFO  project.extensions.Position - a successful attempt to view the files of the directory
+2024-12-05 20:19:51 [JavaFX Application Thread] INFO  project.extensions.Position - successful file selection
+2024-12-05 20:19:51 [JavaFX Application Thread] ERROR project.extensions.Position - file not found
+2024-12-05 20:22:27 [JavaFX Application Thread] ERROR project.extensions.Position - the file is not selected
+2024-12-05 20:23:50 [JavaFX Application Thread] INFO  project.extensions.Position - successful file selection
+2024-12-05 20:23:53 [JavaFX Application Thread] INFO  project.extensions.Position - viewing the selected file
+2024-12-05 20:29:21 [JavaFX Application Thread] INFO  project.extensions.Expander - an attempt to rename a file
+2024-12-05 20:29:21 [JavaFX Application Thread] INFO  project.extensions.Expander - getting the file extension
+2024-12-05 20:29:21 [JavaFX Application Thread] INFO  project.extensions.Position - successful file selection
+2024-12-05 20:29:21 [JavaFX Application Thread] INFO  project.extensions.Expander - successful file renaming attempt
+2024-12-05 20:31:14 [JavaFX Application Thread] INFO  project.extensions.Position - viewing the selected file
+2024-12-05 20:31:21 [JavaFX Application Thread] INFO  project.extensions.MainApp - ï¿½nd of the program
+2024-12-05 20:31:30 [main] INFO  project.extensions.MainApp - the program is running
+2024-12-05 20:31:34 [JavaFX Application Thread] ERROR project.extensions.Expander - an attempt to view the fiIe. the file is not selected
+2024-12-05 20:33:51 [JavaFX Application Thread] INFO  project.extensions.MainApp - ï¿½nd of the program
+2024-12-05 20:33:59 [main] INFO  project.extensions.MainApp - the program is running
+2024-12-05 20:34:04 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:34:05 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:34:06 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:34:07 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:34:09 [JavaFX Application Thread] INFO  project.extensions.Position - moving back through the directory
+2024-12-05 20:34:12 [JavaFX Application Thread] INFO  project.extensions.Position - successful transition to another directory
+2024-12-05 20:34:16 [JavaFX Application Thread] INFO  project.extensions.Position - successful transition to another directory
+2024-12-05 20:34:18 [JavaFX Application Thread] INFO  project.extensions.Position - trying to view directory files
+2024-12-05 20:34:18 [JavaFX Application Thread] INFO  project.extensions.Position - a successful attempt to view the files of the directory
+2024-12-05 20:34:22 [JavaFX Application Thread] INFO  project.extensions.Position - successful file selection
+2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Expander - an attempt to rename a file
+2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Expander - getting the file extension
+2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Expander - trying to determine the zip extension
+2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Expander - the file is a xlsx
+2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Position - successful file selection
+2024-12-05 20:34:26 [JavaFX Application Thread] INFO  project.extensions.Expander - successful file renaming attempt
+2024-12-05 20:34:28 [JavaFX Application Thread] INFO  project.extensions.MainApp - ï¿½nd of the program
